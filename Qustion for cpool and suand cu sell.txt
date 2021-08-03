@@ -1,0 +1,8 @@
+116.50.60.180 webdefence.global.blackspider.com
+
+1. capacity pool and sell VM/SU price are paid for once on creating pool or we need to pay for su sell time also
+2. what percentage TF deduct and for which services for sell price or for creating pool
+3. the money we pay for creating pool is refunded to us 
+4. do we need public IP/for accesing these instance from outside.
+
+
