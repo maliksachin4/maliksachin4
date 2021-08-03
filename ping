@@ -1,0 +1,1 @@
+{"status_code":200,"status_message":"OK","dps_status_code":522,"dps_status_message":"It is recommended to upgrade DLP Manager to version 8.8.0 or above. DPS version is 8.8.2, DLP Manager version is 8.7.1","docker_image_version":"ga_8.8.2"}
