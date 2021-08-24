@@ -8,3 +8,6 @@ LogGitHubPushDbg
 
 tsvika test no block
 LogGitHubPushDbg
+
+tsvika test override block
+11111
