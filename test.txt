@@ -5,3 +5,6 @@
 tsvika test block
 LogGitHubPushDbg
 LogGitHubPushDbg
+
+tsvika test no block
+LogGitHubPushDbg
