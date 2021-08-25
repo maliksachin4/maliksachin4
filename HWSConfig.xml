@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<ProxySetting>
+ <PACFile URL="http://hybrid-web.global.blackspider.com:8082/proxy.pac?cli=ep" />
+ <UPDATE URL="http://download.global.forcepoint.net/epud/" />
+</ProxySetting>
